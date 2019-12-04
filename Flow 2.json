@@ -1,0 +1,1 @@
+[{"id":"d0a33ae5.6d4f48","type":"function","z":"dd4d2dac.fda38","name":"Return Status","func":"msg.payload = \"GPIO5 set to LOW\"\nreturn msg;","outputs":1,"noerr":0,"x":380,"y":560,"wires":[["d8d901f9.fd7","2d02da20.2cfdc6"]]}]
